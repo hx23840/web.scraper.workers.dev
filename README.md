@@ -4,7 +4,7 @@ Web Scraper makes it effortless to scrape websites. You provide a URL and CSS se
 
 [Website →](https://web.scraper.workers.dev)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/adamschwartz/web.scraper.workers.dev)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hx23840/web.scraper.workers.dev)
 
 ## Examples
 
@@ -18,7 +18,7 @@ Web Scraper makes it effortless to scrape websites. You provide a URL and CSS se
 
 ### Profile details from github.com profile page
 
-[web.scraper.workers.dev/?url=github.com/adamschwartz&selector=.vcard-fullname,.d-md-block+[itemprop=worksFor],.d-md-block+[itemprop=homeLocation]&pretty=true](https://web.scraper.workers.dev/?url=https://github.com/adamschwartz&selector=.vcard-fullname,.d-md-block+[itemprop=worksFor],.d-md-block+[itemprop=homeLocation]&pretty=true)
+[web.scraper.workers.dev/?url=github.com/hx23840&selector=.vcard-fullname,.d-md-block+[itemprop=worksFor],.d-md-block+[itemprop=homeLocation]&pretty=true](https://web.scraper.workers.dev/?url=https://github.com/hx23840&selector=.vcard-fullname,.d-md-block+[itemprop=worksFor],.d-md-block+[itemprop=homeLocation]&pretty=true)
 
 ```JSON
 {
